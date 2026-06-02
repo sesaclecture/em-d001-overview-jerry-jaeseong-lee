@@ -4,7 +4,7 @@
 #
 # 강의 시간에 실습한 Linux 명령어를 활용하세요.
 def get_current_path_command():
-    raise NotImplementedError
+    return "pwd"
 
 
 # 문제 2.
